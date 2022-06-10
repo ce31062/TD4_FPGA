@@ -6,6 +6,7 @@ the Arty S7-50, in consideration of the current trends of the times.<br>
 ![image](https://user-images.githubusercontent.com/74296872/172734417-5e0c8a7e-4fa5-4f62-be65-3ee4979feaef.png)
 
 Actual implementation by using logic gate IC well known 74xx series according to the schematic in this book.<br>
+The purpose of this repository is to realize the same functionality in FPGA. <br>
 ![画像1](https://user-images.githubusercontent.com/74296872/172736746-5039c771-1dda-4468-9a87-5194a149894a.png)
 
 
